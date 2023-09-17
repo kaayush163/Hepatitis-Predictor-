@@ -1,3 +1,3 @@
 # Hepatitis-Predictor-
 
-An AI Project for predicting Hepatis Disease in a patient
+An AI Project for predicting Hepatitis Disease in a patient
